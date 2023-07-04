@@ -9,7 +9,7 @@
     <a href="https://github.com/xxxxxyz/react-responsive-web"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://xxxxxyz.github.io/react-responsive-web//">View Demo</a>
+    <a href="https://64a3ffb6f884fc0b2f81d78b--grand-chebakia-40aeec.netlify.app/">View Demo</a>
   </p>
 </div>
 
